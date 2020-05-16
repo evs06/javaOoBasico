@@ -6,7 +6,7 @@ public class Triangulo {
 	private int base;
 	private int altura;
 	
-	public Triangulo(int base, int altura) {
+	Triangulo(int base, int altura) {
 		this.base = base;
 		this.altura = altura;
 	}
@@ -16,25 +16,26 @@ public class Triangulo {
 		int area= (this.base*this.altura)/2;
 		return area;
 	}
+
 	public int sacarPerimetro() {
 		int perimetro= this.base*3;
 	    return perimetro;	
 	}
 
 	public int getBase() {
-		return base;
+		return base;//DUDA
 	}
 
 	public void setBase(int base) {
-		this.base = base;
+		this.base = base;//DUDA
 	}
 
 	public int getAltura() {
-		return altura;
+		return altura;//DUDA
 	}
 
 	public void setAltura(int altura) {
-		this.altura = altura;
+		this.altura = altura;//DUDA
 	}
 	
 	public String toString() {

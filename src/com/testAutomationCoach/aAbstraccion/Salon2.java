@@ -1,6 +1,6 @@
 package com.testAutomationCoach.aAbstraccion;
 
-public class Salon {
+public class Salon2 {
 
     String  idSalon;
   //  Butacas [] butacas;

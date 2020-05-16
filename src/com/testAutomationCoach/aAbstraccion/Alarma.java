@@ -1,13 +1,14 @@
 package com.testAutomationCoach.aAbstraccion;
 
+
 public class Alarma {
 
     public int horas;
     public int minutos;
     public int segundos;
     public String marca;
-    public String material[] = {"metal","plastico","cobre"};
     public String pilas;
+
 
     public void programaralarma(){
         System.out.print("Alarma programada");

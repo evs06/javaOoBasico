@@ -1,6 +1,6 @@
 package com.testAutomationCoach.aAbstraccion;
 
-public class Edificio {
+public class Edificio2 {
 
     String nombreEdificio;
     double alturaEdificio;

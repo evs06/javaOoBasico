@@ -1,4 +1,4 @@
-package libs;
+package com.testAutomationCoach.libs;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

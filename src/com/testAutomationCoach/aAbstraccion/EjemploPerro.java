@@ -6,14 +6,17 @@ public class EjemploPerro {
         fido.nombre = "Fido";
         fido.raza = "Gran Danes";
         fido.tamanio = 45.0;
+        fido.peso = 20.23;
 
         fido.ladrar();
         fido.correr();
         fido.comer();
+        fido.saltar();
 
-        libs.Input.print("Nombre " + fido.nombre + "\n");
-        libs.Input.print("Raza " +fido.raza + "\n");
-        libs.Input.print("Tamaño " + fido.tamanio + "\n");
+        libs.Input.print("Nombre: " + fido.nombre + "\n");
+        libs.Input.print("Raza: " +fido.raza + "\n");
+        libs.Input.print("Tamaño: " + fido.tamanio + "\n");
+        libs.Input.print("Peso: " + fido.peso + "\n");
 
     }
 }

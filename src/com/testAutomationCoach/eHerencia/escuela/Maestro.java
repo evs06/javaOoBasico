@@ -1,4 +1,7 @@
-package com.testAutomationCoach.eHerencia.Escuela;
+package com.testAutomationCoach.eHerencia.escuela;
 
-public class Maestro {
+public class Maestro extends Persona {
+
+
+
 }

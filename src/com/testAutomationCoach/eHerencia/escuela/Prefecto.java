@@ -1,4 +1,4 @@
 package com.testAutomationCoach.eHerencia.escuela;
 
-public class Prefecto {
+public class Prefecto extends Persona {
 }

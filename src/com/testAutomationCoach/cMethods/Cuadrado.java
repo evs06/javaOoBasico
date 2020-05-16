@@ -9,15 +9,19 @@ public class Cuadrado {
 		this.setArea(lado);
 		this.setPerimetro(lado);
 	}
+
 	public int getArea() {
 		return area;
 	}
+
 	private void setArea(int lado) {
 		this.area = lado * lado;
 	}
+
 	public int getPerimetro() {
 		return perimetro;
 	}
+
 	private void setPerimetro(int lado) {
 		this.perimetro = 4 * lado;
 	}

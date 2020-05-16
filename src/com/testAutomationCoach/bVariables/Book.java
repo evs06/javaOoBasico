@@ -12,7 +12,7 @@ class BookTestDrive {
 
         Book [] myBooks = new Book[3];
         int x = 0;
-        myBooks[0].title = "The Grapes of Java";
+        myBooks[0].title = "The Grapes of Java";//DUDA DE POR QUÉ NO PUEDE CORRER
         myBooks[1].title = "The Java Gatsby";
         myBooks[2].title = "The Java Cookbook";
         myBooks[0].author = "bob";

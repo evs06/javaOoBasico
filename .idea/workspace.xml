@@ -2,8 +2,80 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da60685d-5f7d-4fcb-9f7a-28cd887c9ce7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_essentials.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/Edificio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/EjemploAlarma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/EjemploCancion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/EjemploCarritoDeCompras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/EjemploEscuela.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/EjemploPelicula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/Escuela.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/Escuela2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/Maestro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/Persona2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/Salon2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/cMethods/EjemploGuitarra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/cMethods/Guitarra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/contrucciones/Bano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/contrucciones/Casa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/contrucciones/Cocina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/contrucciones/Construccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/contrucciones/Cuarto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/contrucciones/Departamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/contrucciones/Edificio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/contrucciones/Fraccionamiento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/contrucciones/Habitacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/contrucciones/Oficiona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/contrucciones/Vecindad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/contrucciones/Vivienda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/escuela/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/escuela/Botebasura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/escuela/Butaca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/escuela/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/escuela/Inmobiliario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/escuela/Maestro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/escuela/Mesa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/escuela/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/escuela/Pizarron.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/escuela/Prefecto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/escuela/Secretaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/escuela/Silla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/transporte/Aereo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/transporte/Automovil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/transporte/Avion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/transporte/Barco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/transporte/Camion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/transporte/Helipoctero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/transporte/Maritimo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/transporte/Terrestre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/eHerencia/transporte/transporte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/javaOoBasico.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/javaOoBasico.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/Alarma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/Alarma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/Articulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/Articulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/Cancion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/Cancion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/CarritoDeCompras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/CarritoDeCompras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/DVDPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/DVDPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/EjemploPerro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/EjemploPerro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/GameLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/GameLauncher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/GuessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/GuessGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/Pelicula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/Pelicula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/Perro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/Perro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testAutomationCoach/bVariables/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/bVariables/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testAutomationCoach/bVariables/Instanciacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/bVariables/Instanciacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testAutomationCoach/bVariables/tarea.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/bVariables/tarea.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testAutomationCoach/cMethods/Cuadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/cMethods/Cuadrado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/Automovil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/Automovil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/EjemploAutomovil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/EjemploAutomovil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/EjemploDelTriangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/EjemploDelTriangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/Triangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/Triangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/testAutomationCoach/libs/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/testAutomationCoach/libs/Input.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,13 +83,25 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1b2bd7ONhvx2GhV25jqTHz5csPb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../basicJava" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -34,13 +118,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TapeDeckTestDrive">
-    <configuration name="Asignacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testAutomationCoach.bVariables.Asignacion" />
+  <component name="RunManager" selected="Application.EjemploDelTriangulo">
+    <configuration name="EjemploAutomovil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testAutomationCoach.dEncapsulacion.EjemploAutomovil" />
       <module name="javaOoBasico" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testAutomationCoach.bVariables.*" />
+          <option name="PATTERN" value="com.testAutomationCoach.dEncapsulacion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -48,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TapeDeckTestDrive (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aAbstraccion.TapeDeckTestDrive" />
+    <configuration name="EjemploDelTriangulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testAutomationCoach.dEncapsulacion.EjemploDelTriangulo" />
       <module name="javaOoBasico" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aAbstraccion.*" />
+          <option name="PATTERN" value="com.testAutomationCoach.dEncapsulacion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TapeDeckTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testAutomationCoach.aAbstraccion.TapeDeckTestDrive" />
+    <configuration name="EjemploEscuela" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testAutomationCoach.aAbstraccion.EjemploEscuela" />
       <module name="javaOoBasico" />
       <extension name="coverage">
         <pattern>
@@ -74,11 +158,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EjemploGuitarra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testAutomationCoach.cMethods.EjemploGuitarra" />
+      <module name="javaOoBasico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testAutomationCoach.cMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testAutomationCoach.aAbstraccion.GameLauncher" />
+      <module name="javaOoBasico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testAutomationCoach.aAbstraccion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntArray" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testAutomationCoach.bVariables.IntArray" />
+      <module name="javaOoBasico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testAutomationCoach.bVariables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TapeDeckTestDrive" />
-        <item itemvalue="Application.TapeDeckTestDrive (1)" />
-        <item itemvalue="Application.Asignacion" />
+        <item itemvalue="Application.EjemploDelTriangulo" />
+        <item itemvalue="Application.EjemploAutomovil" />
+        <item itemvalue="Application.GameLauncher" />
+        <item itemvalue="Application.EjemploGuitarra" />
+        <item itemvalue="Application.EjemploEscuela" />
       </list>
     </recent_temporary>
   </component>
@@ -107,5 +232,146 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/Triangulo.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/EjemploDelTriangulo.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/EjemploDelTriangulo.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/EjemploDelTriangulo.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/EjemploDelTriangulo.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/Triangulo.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/Triangulo.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/Triangulo.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/Triangulo.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/Triangulo.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/Triangulo.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/Triangulo.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/Triangulo.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/Triangulo.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/Triangulo.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/bVariables/Instanciacion.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/bVariables/IntArray.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/bVariables/IntArray.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/bVariables/Book.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/bVariables/Book.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/bVariables/Book.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/aAbstraccion/EjemploEscuela.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/EjemploDelTriangulo.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/dEncapsulacion/EjemploDelTriangulo.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/bVariables/Book.java</url>
+          <line>3</line>
+          <properties field="title" class="com.testAutomationCoach.bVariables.Book" />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/com/testAutomationCoach/bVariables/Book.java</url>
+          <line>4</line>
+          <properties field="author" class="com.testAutomationCoach.bVariables.Book" />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

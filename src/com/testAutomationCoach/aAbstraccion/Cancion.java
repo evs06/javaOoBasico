@@ -4,47 +4,38 @@ public class Cancion {
     //atributos: titulo, artista, duracion, letra, anio lanzamiento
     //metodos reproducir, editar, grabar, etc...
 
-    public String titulo;
-    public String artista;
-    public double duracion;
-    public String letra;
-    public int anLanza;
-    public double genero;
+    //atributos: titulo, artista, duracion, letra, anio lanzamiento
+    String titulo;
+    String artista;
+    int duracionSegundos;
+    String letra;
+    String nuevaLetra;
+    int anioLanzamiento;
+    Boolean esCover;
+    //metodos reproducir, editar, grabar, etc...
 
-    public void reproducir(){
-        System.out.print("Reproduciendo...");
+    public Cancion(String tituloCancion, String artista) {
+        this.titulo = tituloCancion;
+        this.artista = artista;
     }
 
-    public void editar(){
-        System.out.print("Editar canción");
+    public Cancion(){
+
     }
 
-    public void grabar(){
-        System.out.print("Grabando...");
+    public void reproducir() {
+        System.out.println(this.letra);
     }
 
-    public void copiar(){
-        System.out.print("Copiada");
+    public void editar(String nuevaLetra) {
+
+        this.nuevaLetra = nuevaLetra;
     }
 
-    public void pausar(){
-        System.out.print("Pausar canción");
-    }
-
-    public void detener(){
-        System.out.print("Canción detenida");
-    }
-
-    public void eliminar(){
-        System.out.print("Canción eliminada");
-    }
-
-    public void regresar(){
-        System.out.print("Regresando...");
-    }
-
-    public void adelantar(){
-        System.out.print("Adelantando...");
+    public void grabar(String letra, int duracionSegundos, int anioLanzamiento) {
+        this.letra = letra;
+        this.duracionSegundos = duracionSegundos;
+        this.anioLanzamiento = anioLanzamiento;
     }
 
 }

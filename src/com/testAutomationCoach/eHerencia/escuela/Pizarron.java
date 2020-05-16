@@ -1,4 +1,4 @@
 package com.testAutomationCoach.eHerencia.escuela;
 
-public class Pizarron {
+public class Pizarron extends Inmobiliario {
 }

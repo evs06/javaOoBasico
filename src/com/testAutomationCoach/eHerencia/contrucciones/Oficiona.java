@@ -1,4 +1,4 @@
 package com.testAutomationCoach.eHerencia.contrucciones;
 
-public class Oficionas {
+public class Oficiona {
 }

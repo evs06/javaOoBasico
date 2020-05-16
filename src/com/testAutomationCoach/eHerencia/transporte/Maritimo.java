@@ -1,7 +1,8 @@
 package com.testAutomationCoach.eHerencia.transporte;
 
-public class Marino extends transporte{
+public class Maritimo extends transporte{
 
 
+    Boolean velas;
 
 }

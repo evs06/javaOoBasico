@@ -1,4 +1,7 @@
 package com.testAutomationCoach.eHerencia.contrucciones;
 
-public class Vivienda {
+public class Vivienda extends Construccion {
+
+    Habitacion[] habitaciones;
+
 }

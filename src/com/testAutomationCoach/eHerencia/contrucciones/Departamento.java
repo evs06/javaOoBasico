@@ -1,4 +1,7 @@
 package com.testAutomationCoach.eHerencia.contrucciones;
 
-public class Departamento {
+public class Departamento extends Vivienda {
+
+
+
 }

@@ -1,31 +1,71 @@
 package com.testAutomationCoach.aAbstraccion;
 
-public class Escuela {
+public class Escuela2 {
     //edificios, salones, personas: directivo, maestro, aseistente, alumnos, materias, mobiliario
-    Edificio[] edificios;
-    Persona[] personal;
+    Edificio2[] edifs;
+  //  Directivo dire;
+    Maestro [] profes;
 }
 
-class Edificio  {
-    int numEdif;
-    double areaEdificio;
-    Salon[] salones;
-}
-
-class Salon {
-    String id;
-    int capacidad;
-    Inmobiliario[] muebles;
-    //Butacas[] butaca;
-}
-
-class Inmobiliario {
-    String idInventario;
-    String tipo;
-}
-
-class Persona {
-    String nombre;
-    char sex;
-    String cargo;
-}
+/*//class Edificio {
+//    //salones, vias de acceso
+//}*/
+//
+//class Salon {
+//    //mobiliario
+//}
+//
+//class Mueble {
+//
+//}
+//
+//class Pizarron {
+//
+//}
+//
+//class Butaca {
+//
+//
+//}
+//
+//class Escritorio {
+//    //atributos
+//}
+//
+//class Persona {
+//
+//}
+//
+//class Alumno {
+//
+//
+//}
+//
+//class Maestro {
+//
+//
+//}
+//
+//class Intendencia {
+//
+//
+//}
+//
+//class Directivos {
+//
+//
+//}
+//
+//class Materia {
+//
+//}
+//
+//class Espanol {
+//
+//
+//}
+//
+//class Matematicas {
+//
+//
+//}

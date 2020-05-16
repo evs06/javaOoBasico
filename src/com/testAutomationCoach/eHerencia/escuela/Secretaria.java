@@ -1,4 +1,4 @@
 package com.testAutomationCoach.eHerencia.escuela;
 
-public class Secretaria {
+public class Secretaria extends Persona {
 }

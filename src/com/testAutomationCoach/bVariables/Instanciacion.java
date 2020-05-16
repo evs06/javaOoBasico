@@ -17,9 +17,9 @@ public class Instanciacion {
         String fraseBenito = "El respeto al derecho ajeno es la paz";
 
         Perro firulais = new Perro();
-        fido.ladrar();
+       // fido.ladrar();
         firulais.ladrar();
-        tablet.toString();
+       // tablet.toString();
         Articulo laptop = new Articulo();
         laptop.toString();
     }

@@ -11,6 +11,7 @@ public class Automovil {
 	private String tipoDeTransmision;
 	private int numDePuertas;
 	private int numDeLlantas;
+	double b = getVelocidad();
 	
 	Automovil() {
 		marca = "Ford";
@@ -47,6 +48,5 @@ public class Automovil {
 	
 	public double getVelocidad() {
 		return velocidadActual;
-		
 	}
 }

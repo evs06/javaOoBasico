@@ -1,4 +1,6 @@
 package com.testAutomationCoach.eHerencia.escuela;
 
-public class Botebasura {
+public class Botebasura extends Inmobiliario {
+
+
 }

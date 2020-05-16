@@ -1,4 +1,4 @@
 package com.testAutomationCoach.eHerencia.escuela;
 
-public class Butaca {
+public class Butaca extends Inmobiliario {
 }
